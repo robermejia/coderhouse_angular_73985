@@ -1,0 +1,12 @@
+:root {
+    --fondo: linear-gradient(to bottom, #00ff00, #00ff7f, #0080ff);
+    --fondo-abuelo: linear-gradient(to bottom, #ff0000, #ff007f, #8000ff);
+    --fondo-padre: linear-gradient(to bottom, #00ff00, #00ff7f, #0080ff);
+    --fondo-hijo: linear-gradient(to bottom, #00ff00, #00ff7f, #0080ff);
+    --fondo-nieto: linear-gradient(to bottom, #00ff00, #00ff7f, #0080ff);
+}
+body {
+    background: var(--fondo);
+    color: #000;
+    font-family: Arial, sans-serif;
+}
