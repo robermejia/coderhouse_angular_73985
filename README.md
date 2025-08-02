@@ -1,20 +1,64 @@
+# PrimerAvance
 <p align="center"> 
     <img src="https://jobs.coderhouse.com/assets/logos_coderhouse.png" alt="CoderHouse"  height="100"/>
 </p>
 
 # Listado de Clases - Comisión 73985 (Angular)
 
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.0.
 
-## Grabaciones
-### 1 - Clase Práctica
-[![YouTube Video](https://img.youtube.com/vi/Cu_1zMB0hbg/1.jpg)](https://www.youtube.com/watch?v=Cu_1zMB0hbg)
-### 2 - Clase Práctica
-[![YouTube Video](https://img.youtube.com/vi/ADEe0iqP9vA/1.jpg)](https://www.youtube.com/watch?v=ADEe0iqP9vA)
-### 3 - Clase Práctica
-[![YouTube Video](https://img.youtube.com/vi/fHHjR1gledo/1.jpg)](https://www.youtube.com/watch?v=fHHjR1gledo)
-### 4 - Clase Práctica
-[![YouTube Video](https://img.youtube.com/vi/I0N-0rbE_RI/1.jpg)](https://www.youtube.com/watch?v=I0N-0rbE_RI)
-### 5 - Clase Práctica
-[![YouTube Video](https://img.youtube.com/vi/yZK82W8Qnpw/1.jpg)](https://www.youtube.com/watch?v=yZK82W8Qnpw)
-### 6 - Clase Práctica
-[![YouTube Video](https://img.youtube.com/vi/vRvH6MeCK3E/1.jpg)](https://www.youtube.com/watch?v=vRvH6MeCK3E)
+## Development server
+
+To start a local development server, run:
+
+```bash
+ng serve
+```
+
+Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+
+## Code scaffolding
+
+Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+
+```bash
+ng generate component component-name
+```
+
+For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+
+```bash
+ng generate --help
+```
+
+## Building
+
+To build the project run:
+
+```bash
+ng build
+```
+
+This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+
+## Running unit tests
+
+To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+
+```bash
+ng test
+```
+
+## Running end-to-end tests
+
+For end-to-end (e2e) testing, run:
+
+```bash
+ng e2e
+```
+
+Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+
+## Additional Resources
+
+For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
